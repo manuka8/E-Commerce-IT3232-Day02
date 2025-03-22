@@ -50,6 +50,4 @@ The following endpoints are available in this application:
 - Spring Boot
 - Maven/Gradle
 
-## License
-This project is open-source. You may modify and distribute it as per the applicable license.
 
