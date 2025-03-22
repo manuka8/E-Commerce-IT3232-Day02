@@ -17,4 +17,8 @@ public String myMessage() {
 public String myName() {
 	return "My name is SpringBoot";
 }
+@GetMapping("/myProfile")
+public String myProfile() {
+	return "My name is Manuka and my reg no is 2020ICT43";
+}
 }
